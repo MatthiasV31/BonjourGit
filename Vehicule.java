@@ -36,7 +36,7 @@ public class Vehicule {
 	}
 	
 	public void demarrer() {
-		System.out.println("Go -"+ this.modele +"démarre");
+		System.out.println("Allons-y!!! "+ this.modele +"démarre");
 		
 	}
 
@@ -47,7 +47,7 @@ public class Vehicule {
 	}
 
 /**
- * Cobstructeur de la classe 
+ * Constructeur de la classe 
  * @param immatriculation du véhicule
  * @param modele du véhicule
  * @param nbKmCompteur lors de l'achat (création de l'objet)
